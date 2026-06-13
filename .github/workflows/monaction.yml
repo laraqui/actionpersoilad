@@ -11,5 +11,5 @@ jobs:
       - name: Dire bonjour avec mon action
         uses: laraqui/actionpersoilad@main
         with:
-          nom: "laraqui"
+          nom: "ilad"
           langue: "es"
